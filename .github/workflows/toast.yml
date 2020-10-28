@@ -23,5 +23,5 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs toast.exe
-      - name: Run a one-line script
-        run: toast.exe
+      - name: Y̮̱̟̜̳͉̼ͫ̂́̓̀͒Ȯ̷̤̜͚͍̼̞̩͆͆̚Ű̶ͭͣͣR̛̮̘̩͊̅͛ ̳̗̗̘͍̏͌ͥ̄̀ͪͥ́Ț̜͈͕͓̹Ó̜̹̮̥̺A̪̘̪͖͕̩̬ͯ͛ͩ̚Ș̠̤̲̮͎̯͂̒͌̂̐̔͟T̼̰̥̣͒́͆̒̚͠!̅͆̏ͩ̂̓ ̤̫̝̦̞͌͒
+        run: start toast.exe
